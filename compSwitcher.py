@@ -1,3 +1,4 @@
+#!/usr/bin/python2.7
 #2013 december <december0123@gmail.com>
 #Icons: mka <krzy49@gmail.com>
 #Beerware licensed
