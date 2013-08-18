@@ -1,0 +1,8 @@
+#2013 december <december0123@gmail.com>
+#Icons: mka <krzy49@gmail.com>
+#Beerware licensed
+#This little program is to help people experiencing video tearing
+#with nVidia proprietary driver.
+#All it does is it runs one of the three bash scripts
+#provided with the program to switch between 
+#compositors (xfwm4, dcompmgr, cairo-compgr).
