@@ -1,11 +1,9 @@
-#2013 december <december0123@gmail.com>
-#Icons: mka <krzy49@gmail.com>
-#Beerware licensed
-#This little program is to help people experiencing video tearing
-#with nVidia proprietary driver.
-#All it does is it runs one of the three bash scripts
-#provided with the program to switch between 
-#compositors (xfwm4, dcompmgr, cairo-compgr).
+compSwitcher v1.0
+2013 december <december0123@gmail.com>
+Icons: mka <krzy49@gmail.com>
+Beerware licensed
+This little program is to help people experiencing video tearing with nVidia proprietary driver.
+All it does is it runs one of the three bash scripts provided with the program to switch between compositors (xfwm4, dcompmgr, cairo-compgr).
 To run:
 python2 <path_to_script>/compSwitcher.py
-Make sure that the script is in the same directory as Icons and Scripts folders
+Make sure that the script is in the same directory as Icons and Scripts folders.
