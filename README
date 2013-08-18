@@ -6,6 +6,6 @@
 #All it does is it runs one of the three bash scripts
 #provided with the program to switch between 
 #compositors (xfwm4, dcompmgr, cairo-compgr).
-Usage:
+To run:
 python2 <path_to_script>/compSwitcher.py
 Make sure that the script is in the same directory as Icons and Scripts folders
